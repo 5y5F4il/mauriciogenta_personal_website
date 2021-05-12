@@ -12,10 +12,8 @@ const GlobalStyle = createGlobalStyle`
 
 export default GlobalStyle;
 
-{
-  /*
+/*
     font-family: 'Montserrat', sans-serif;
     font-family: 'Nanum Brush Script', cursive;
     font-family: 'Open Sans', sans-serif;
 */
-}
